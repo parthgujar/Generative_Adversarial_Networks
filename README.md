@@ -1,6 +1,6 @@
 Overview
 ============
-This is the Generative Adversarial Network Demo written in Python using the Theano ML library. There is a default static gaussian distribution curve that the generator curve continously tries to mimic. Each timestep it gets better and better as it slowly gets better at fooling the disciminator network. Here's a cool live [demo](http://cs.stanford.edu/people/karpathy/gan/)
+This is the Generative Adversarial Network Demo written in Python using the Theano ML library. There is a default static gaussian distribution curve that the generator curve continously tries to mimic. Each timestep it gets better and better as it slowly gets better at fooling the disciminator network. [demo](http://cs.stanford.edu/people/karpathy/gan/)
 
 ![http://i.imgur.com/5qzjtgd.png](http://i.imgur.com/5qzjtgd.png)
 
@@ -22,7 +22,3 @@ If your dependencies are installed you can just run the code! A pyplot GUI shoul
 ```shell
 python demo.py
 ```
-
-*Pull Requests are encouraged!!! This pyplot stuff can get wonky, so definitely make a PR if you see something that needs fixing.*
-
-
